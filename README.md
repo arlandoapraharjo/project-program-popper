@@ -1,6 +1,6 @@
 # POPPER
 
-simple cli-based python program for store management with integrated cashier  
+basic cli-based python program for store management with integrated cashier.
 
 # Version 1.0
 changelog:
@@ -11,4 +11,5 @@ changelog:
     - manage suppliers
  
 # Notice
-pgadmin database will be included soon
+- our first fully built Python program and bugs are to be expected
+- pgAdmin database will be included soon
