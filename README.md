@@ -12,4 +12,4 @@ changelog:
  
 # Notice
 - our first fully built Python program and bugs are to be expected
-- pgAdmin database will be included soon
+- PostgresSQL database will be included soon
